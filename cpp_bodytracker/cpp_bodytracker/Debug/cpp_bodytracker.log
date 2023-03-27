@@ -1,0 +1,5 @@
+﻿cpp_bodytracker.obj : error LNK2019: __imp__k4a_device_get_installed_count_main 함수에서 참조되는 확인할 수 없는 외부 기호
+cpp_bodytracker.obj : error LNK2019: __imp__k4a_device_open_main 함수에서 참조되는 확인할 수 없는 외부 기호
+cpp_bodytracker.obj : error LNK2019: __imp__k4a_device_start_cameras_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Program Files\Azure Kinect SDK v1.4.1\sdk\windows-desktop\amd64\release\lib\k4a.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\JongWonCha\Desktop\cpp_bodytracker\Debug\cpp_bodytracker.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.

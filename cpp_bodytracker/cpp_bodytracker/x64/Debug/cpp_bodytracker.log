@@ -1,0 +1,7 @@
+﻿  multiple.cpp
+C:\Users\JW\Desktop\backup\cpp_bodytracker\cpp_bodytracker\multiple.cpp(44,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JW\Desktop\backup\cpp_bodytracker\cpp_bodytracker\multiple.cpp(47,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JW\Desktop\backup\cpp_bodytracker\cpp_bodytracker\multiple.cpp(50,34): error C2677: 이항 '*': 'k4a_quaternion_t::_wxyz' 형식을 사용하는 전역 연산자가 없거나 허용되는 변환이 없습니다.
+C:\Users\JW\Desktop\backup\cpp_bodytracker\cpp_bodytracker\multiple.cpp(52,5): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
+C:\Users\JW\Desktop\backup\cpp_bodytracker\cpp_bodytracker\multiple.cpp(62,25): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\JW\Desktop\backup\cpp_bodytracker\cpp_bodytracker\multiple.cpp(103,57): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.

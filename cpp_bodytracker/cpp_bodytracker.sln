@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_bodytracker", "cpp_bodytracker\cpp_bodytracker.vcxproj", "{3BC79A78-86FB-4C84-AF79-2545D2717470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC79A78-86FB-4C84-AF79-2545D2717470}.Debug|x64.ActiveCfg = Debug|x64
+		{3BC79A78-86FB-4C84-AF79-2545D2717470}.Debug|x64.Build.0 = Debug|x64
+		{3BC79A78-86FB-4C84-AF79-2545D2717470}.Debug|x86.ActiveCfg = Debug|Win32
+		{3BC79A78-86FB-4C84-AF79-2545D2717470}.Debug|x86.Build.0 = Debug|Win32
+		{3BC79A78-86FB-4C84-AF79-2545D2717470}.Release|x64.ActiveCfg = Release|x64
+		{3BC79A78-86FB-4C84-AF79-2545D2717470}.Release|x64.Build.0 = Release|x64
+		{3BC79A78-86FB-4C84-AF79-2545D2717470}.Release|x86.ActiveCfg = Release|Win32
+		{3BC79A78-86FB-4C84-AF79-2545D2717470}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDBB6472-C975-45FB-8059-14ADCE165416}
+	EndGlobalSection
+EndGlobal
